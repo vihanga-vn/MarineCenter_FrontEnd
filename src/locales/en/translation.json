@@ -1,0 +1,10 @@
+{
+  "brand": {
+    "name": "MARINE SERVICE CENTER",
+    "tagline": "Boat Spare Parts & Marine Services"
+  },
+  "status": {
+    "title": "Development Environment Initialized",
+    "ready": "Frontend and development environment are ready."
+  }
+}
